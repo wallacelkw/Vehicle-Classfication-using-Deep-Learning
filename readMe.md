@@ -1,7 +1,7 @@
 ﻿# Vehicle Classification
-This repository contains Pytorch implementation of our paper titled:  
+This project is use ChatGPT create a Inception and EfficientNet's code.
 
->In this method we train a convolutional neural network with 6 classes which contain Bus, Cars, Motorcycles, Pickup, Truck and Van. To model it use Inception v1 and EfficientNet b3.
+>In this method we train a convolutional neural network with 6 classes which contain Bus, Cars, Motorcycles, Pickup, Truck and Van in Malaysia. The model it use Inception v1 and EfficientNet b3.
 
 ## Source Code Folder
 ### Main code 
@@ -36,4 +36,7 @@ All preprocessing used jupyter lab to perform:
 
 ### Result sub folder
 > The result contain Inception and Efficient classification report, training and validation 's loss and accuracy, confusion matrix and the ***checkpoint file*** of the trained model.
+
+# Screenshot
+
 
