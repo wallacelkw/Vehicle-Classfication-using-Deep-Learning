@@ -38,5 +38,23 @@ All preprocessing used jupyter lab to perform:
 > The result contain Inception and Efficient classification report, training and validation 's loss and accuracy, confusion matrix and the ***checkpoint file*** of the trained model.
 
 # Screenshot
+## EfficientNet
+Loss and Accuracy
+
+<img src="Results/EfficientNet/loss_n_accuracy.png"  width="50%" height="30%">
+
+Confusion Matrix
+
+<img src="Results/EfficientNet/Confusion Matrix.png"  width="30%" height="30%">
+
+## InceptionNet
+Loss and Accuracy
+
+<img src="Results/Inception/loss_n_accuracy.png"  width="50%" height="30%">
+
+Confusion Matrix
+
+<img src="Results/Inception/Confusion Matrix.png"  width="30%" height="30%">
+
 
 
