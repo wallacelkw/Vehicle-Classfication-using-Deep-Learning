@@ -41,20 +41,20 @@ All preprocessing used jupyter lab to perform:
 ## EfficientNet
 Loss and Accuracy
 
-<img src="Results/EfficientNet/loss_n_accuracy.png"  width="50%" height="30%">
+<img src="Results/EfficientNet/loss_n_accuracy.png"  width="50%" height="40%">
 
-Confusion Matrix
+Classification Report of Inception
 
-<img src="Results/EfficientNet/Confusion Matrix.png"  width="30%" height="30%">
+<img src="Results/EfficientNet/effiiciennet classification report.png"  width="40%" height="30%">
 
 ## InceptionNet
 Loss and Accuracy
 
-<img src="Results/Inception/loss_n_accuracy.png"  width="50%" height="30%">
+<img src="Results/Inception/loss_n_accuracy.png"  width="50%" height="40%">
 
-Confusion Matrix
+Classification Report of Inception
 
-<img src="Results/Inception/Confusion Matrix.png"  width="30%" height="30%">
+<img src="Results/Inception/classification report.png"  width="40%" height="30%">
 
 
 
